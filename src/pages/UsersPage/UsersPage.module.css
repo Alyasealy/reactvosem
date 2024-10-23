@@ -1,0 +1,36 @@
+.container{
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+.user_sec{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    margin: 0 auto;
+    width: 1200px;
+    justify-content: center;
+    padding-top: 60px;
+    
+    
+
+}
+.wq{
+    font-size: 35px;
+    margin: 80px 0 20px 0;
+    font-weight: 600;
+}
+
+.us_one{
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+
+    padding: 25px 40px;
+    gap: 25px;
+   
+ 
+}
+.ee{
+    font-weight: 600;
+}
